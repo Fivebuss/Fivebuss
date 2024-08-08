@@ -1,2 +1,5 @@
-I do things sometimes
-Dont expct very high quality code, I basically only know lua and the magic art of Ctrl C Ctrl V
+I do things sometimes\
+What you will find from me :\
+-"Quality" Code\
+-Bad changelogs\
+-Multiple ~~bugs~~ Features

@@ -1,5 +1,5 @@
-I do things sometimes\
-What you will find from me :\
--"Quality" Code\
--Bad changelogs\
--Multiple ~~bugs~~ Features
+## Im a dude who has too much free time
+* Expect half-baked projects
+* Horrifying commit messages
+* Code that is disgusting and functional, or pretty and broken
+* ~~Bugs~~ features
